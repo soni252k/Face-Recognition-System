@@ -4,7 +4,7 @@ Steps to run the program
 
 1. Download the zip file and extract it. 
 
-2. Open command propmt and locate the folder. 
+2. Open command prompt and locate the folder. 
 
 3. Type " pip install -r requirements.txt "
 requirements.txt contains all the required libraries, thus all of them will be installed in your PC.
